@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">D&amp;D 5E Companion</string>
+
+    <!-- Begin Character Sheet Strings -->
+
+    <string name="char_sheet_str_label">Strength</string>
+    <string name="char_sheet_dex_label">Dexterity</string>
+    <string name="char_sheet_con_label">Constitution</string>
+    <string name="char_sheet_int_label">Intelligence</string>
+    <string name="char_sheet_wis_label">Wisdom</string>
+    <string name="char_sheet_cha_label">Charisma</string>
+
+    <string name="char_sheet_acro_label">Acrobatics</string>
+    <string name="char_sheet_anim_label">Animal Handling</string>
+    <string name="char_sheet_arca_label">Arcana</string>
+    <string name="char_sheet_athl_label">Athletics</string>
+    <string name="char_sheet_dece_label">Deception</string>
+    <string name="char_sheet_hist_label">History</string>
+    <string name="char_sheet_insi_label">Insight</string>
+    <string name="char_sheet_inti_label">Intimidation</string>
+    <string name="char_sheet_inve_label">Investigation</string>
+    <string name="char_sheet_medi_label">Medicine</string>
+    <string name="char_sheet_natu_label">Nature</string>
+    <string name="char_sheet_perc_label">Perception</string>
+    <string name="char_sheet_perf_label">Performance</string>
+    <string name="char_sheet_pers_label">Persuasion</string>
+    <string name="char_sheet_reli_label">Religion</string>
+    <string name="char_sheet_slei_label">Sleight of Hand</string>
+    <string name="char_sheet_stea_label">Stealth</string>
+    <string name="char_sheet_surv_label">Survival</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_character_list">CharacterListActivity</string>
+    <string name="title_activity_character_details">CharacterDetailsActivity</string>
+    <string name="title_activity_character">CharacterActivity</string>
+
+
+    <!-- End Character Sheet Strings -->
+</resources>
