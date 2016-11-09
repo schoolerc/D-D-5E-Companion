@@ -10,4 +10,10 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.cschooler.dd5ecompanion.CharacterListActivity">
 
+    <fragment android:name="com.cschooler.dd5ecompanion.CharacterListFragment"
+        android:id="@+id/character_list_fragment"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"/>
+
 </RelativeLayout>
